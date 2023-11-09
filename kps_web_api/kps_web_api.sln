@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kps_web_api", "kps_web_api\kps_web_api.csproj", "{D8057004-D4AB-404B-8123-89A82519C7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8057004-D4AB-404B-8123-89A82519C7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8057004-D4AB-404B-8123-89A82519C7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8057004-D4AB-404B-8123-89A82519C7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8057004-D4AB-404B-8123-89A82519C7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

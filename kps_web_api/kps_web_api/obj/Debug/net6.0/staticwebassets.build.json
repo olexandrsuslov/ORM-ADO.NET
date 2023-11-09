@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ciTQEsGMEg6srjWJfAou+CHXXa1wTLALoL4Xp+Gw7Xs=",
+  "Source": "kps_web_api",
+  "BasePath": "_content/kps_web_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
